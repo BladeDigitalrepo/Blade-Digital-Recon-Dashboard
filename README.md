@@ -1,7 +1,5 @@
 # ⚡ Blade Digital Recon Dashboard ⚡
-> **ADB | Watchdog | Port Recon — All on Mobile**
-
-![Blade Digital Banner](./assets/blade_banner.png)
+> **ADB | Watchdog | Port Recon 
 
 A compact **mobile recon toolkit** designed to run inside **[Termux](https://termux.dev/)** (or Kali NetHunter).  
 Easily check ADB status, run a watchdog against Wi-Fi debugging, and perform deep port/device reconnaissance — all from your Android device.
@@ -32,7 +30,7 @@ ttps://github.com/BladeDigitalrepo/blade-digital
 -recon-dashboard.git
 cd blade-digital-recon-dashboard
 3.Make Scripts Executable:
-chmod +x*.ss
+chmod +x*.sh
 4. Run
 ./blade_recon_dashboard.sh
 
