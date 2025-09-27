@@ -31,9 +31,7 @@ git clone
 ttps://github.com/BladeDigitalrepo/blade-digital
 -recon-dashboard.git
 cd blade-digital-recon-dashboard
-3.Make Scripts Executable
-Bash
-Copycode
+3.Make Scripts Executable:
 chmod +x*.ss
 4. Run
 ./blade_recon_dashboard.sh
